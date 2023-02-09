@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "boquchx9dM9Mk/9NumhVeOV9APbw6LlWcsbukqA2ICI2xW6L8EnN2Fb59Fj6dp6kxkXTPCDefq2o04xay0INaA==",
+  "success": true,
+  "projectFilePath": "/home/tim/Study/c#/TicTacToe/TicTacToeLib/TicTacToeLib.csproj",
+  "expectedPackageFiles": [
+    "/home/tim/.nuget/packages/crayon/2.0.69/crayon.2.0.69.nupkg.sha512"
+  ],
+  "logs": []
+}

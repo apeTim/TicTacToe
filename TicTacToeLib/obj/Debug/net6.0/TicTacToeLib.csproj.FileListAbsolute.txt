@@ -1,0 +1,12 @@
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.deps.json
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.dll
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/bin/Debug/net6.0/ref/TicTacToeLib.dll
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/bin/Debug/net6.0/TicTacToeLib.pdb
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.csproj.AssemblyReference.cache
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.AssemblyInfoInputs.cache
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.AssemblyInfo.cs
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.csproj.CoreCompileInputs.cache
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.dll
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/ref/TicTacToeLib.dll
+/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/Debug/net6.0/TicTacToeLib.pdb

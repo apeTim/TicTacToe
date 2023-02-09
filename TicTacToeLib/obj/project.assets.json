@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Crayon/2.0.69": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crayon/2.0.69": {
+      "sha512": "eJHxoMTfhZs1782YUIMafXIDTPcTwAV5I3MNsl2d4Mn61/h3ABPMSzHwzigL/NO7BrCKRoP4gHJuERpLHdSCvg==",
+      "type": "package",
+      "path": "crayon/2.0.69",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crayon.2.0.69.nupkg.sha512",
+        "crayon.nuspec",
+        "lib/netstandard2.0/Crayon.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Crayon >= 2.0.69"
+    ]
+  },
+  "packageFolders": {
+    "/home/tim/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/tim/Study/c#/TicTacToe/TicTacToeLib/TicTacToeLib.csproj",
+      "projectName": "TicTacToeLib",
+      "projectPath": "/home/tim/Study/c#/TicTacToe/TicTacToeLib/TicTacToeLib.csproj",
+      "packagesPath": "/home/tim/.nuget/packages/",
+      "outputPath": "/home/tim/Study/c#/TicTacToe/TicTacToeLib/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/tim/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Crayon": {
+            "target": "Package",
+            "version": "[2.0.69, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
